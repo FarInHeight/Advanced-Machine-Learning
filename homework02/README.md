@@ -6,7 +6,7 @@ To get them you have to run the cells and train each model from scratch.
 # Class Activation Map example
 
 ## Original image
-![Original Image](images/original_image.png)
+<img src="images/original_image.png" alt="Original Image" style="width:224px;"/>
 
 ## Associated Class Activation Map
-![CAM Image](images/result.png)
+<img src="images/result.png" alt="CAM Image" style="width:224px;"/>
